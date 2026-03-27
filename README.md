@@ -1,8 +1,7 @@
-# Ivan-Claudes
 # Hi everybody
-I'm a data analyst 
+I am a young man with a strong interest in mathematics and logical data analysis, with additional experience in probabilistic predictions.
 
-# Skills:
+# My Skills:
 SQL, Python, Excel & Power BI
 
 # Projects
